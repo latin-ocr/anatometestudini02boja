@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "anatometestudini02boja_0156.png"; bbox 0 0 2724 4129; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 901 2642 1150 2670">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 901 2642 1150 2670">
+     <span class='ocr_line' id='line_1_1' title="bbox 901 2642 1150 2670; baseline 0.04 -10"><span class='ocrx_word' id='word_1_1' title='bbox 901 2649 903 2664; x_wconf 66' lang='lat'>1</span> <span class='ocrx_word' id='word_1_2' title='bbox 932 2642 975 2659; x_wconf 64' lang='grc' dir='ltr'>τ““”</span> <span class='ocrx_word' id='word_1_3' title='bbox 1000 2643 1150 2670; x_wconf 53' lang='grc' dir='ltr'>’ΠΤΠῩῘΓΥ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1015 2684 1229 2714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1015 2684 1229 2714">
+     <span class='ocr_line' id='line_1_2' title="bbox 1015 2684 1229 2714; baseline 0.037 -8"><span class='ocrx_word' id='word_1_4' title='bbox 1015 2684 1026 2709; x_wconf 13' lang='grc' dir='ltr'>εἴ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1040 2684 1082 2710; x_wconf 62' lang='lat'>5213·</span> <span class='ocrx_word' id='word_1_6' title='bbox 1093 2684 1229 2714; x_wconf 62' lang='lat' dir='ltr'>v{RSIW</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 883 2706 1220 2756">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 831 2696 1220 2756">
+     <span class='ocr_line' id='line_1_3' title="bbox 883 2706 1220 2756; baseline 0.028 -9.53"><span class='ocrx_word' id='word_1_7' title='bbox 883 2706 1049 2752; x_wconf 61' lang='lat' dir='ltr'>.,..2;—‘1,={]G{.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1073 2726 1122 2754; x_wconf 76' lang='grc' dir='ltr'>ΜΑ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1143 2725 1220 2756; x_wconf 78' lang='grc' dir='ltr'>υεΔ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
